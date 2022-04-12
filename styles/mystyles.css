@@ -1,0 +1,43 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(245, 227, 206);
+}
+a.resume:link{
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a.resume:visited{
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a.resume:hover{
+    color: rgb(228, 120, 31);
+    background-color: transparent;
+    text-decoration: underline;
+}
+a.resume:active{
+    color: rgb(228, 120, 31);
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:hover{
+    color: rgb(228, 120, 31);
+    background-color: transparent;
+    text-decoration: underline;
+}
+img.lake-photo{
+    display:block;
+    width:40%;
+}
+img.boulder-photo{
+    display: block;
+    width: 60%;
+}
+img.road-photo{
+    display: block;
+    width: 40%;
+}

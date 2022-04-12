@@ -1,0 +1,38 @@
+.navigation{
+    height:100px;
+    color: whitesmoke;
+    background-color: rgb(228, 120, 31);
+    line-height: 100px;
+}
+body{
+    background-color: rgb(245, 227, 206);
+}
+.tableau{
+    object-fit: center;
+}
+
+.footer{
+height: 50px;
+background-color: rgb(228, 120, 31);
+color: white;
+}
+a:link{
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(245, 227, 206);
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active{
+    color: rgb(228, 120, 31);
+    background-color: transparent;
+    text-decoration: underline;
+}
